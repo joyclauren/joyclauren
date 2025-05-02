@@ -1,4 +1,7 @@
-## Hi there 👋
+👋 Hi, I'm Lauren Joy.
+
+⚡ I'm interested in predictive modelling, reporting and analytics and time series analysis in the energy and finance sector.
+
 
 <!--
 **joyclauren/joyclauren** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +17,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### Tools
+* Language: Python, R, SQL
+* Database: MySQL
+* Visualization: Tableau
+  
