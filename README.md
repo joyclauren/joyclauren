@@ -1,6 +1,6 @@
 👋 Hi, I'm Lauren Joy.
 
-⚡ I'm interested in predictive modelling, reporting and analytics and time series analysis in the energy and finance sector.
+⚡ I'm interested in predictive modelling, reporting and analytics, and time series analysis in the energy and finance sector.
 
 
 <!--
